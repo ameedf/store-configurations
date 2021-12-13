@@ -5,4 +5,4 @@ spring:
       port: 27017
 
 custom:
-  message: "Hello from user service"
+  message: "Hello from user service 2"
